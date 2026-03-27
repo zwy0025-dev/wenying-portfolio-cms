@@ -205,4 +205,3 @@ export async function getCoreSkills(): Promise<CoreSkill[]> {
 }
 
 export { notion, DB_IDS };
-Fix Notion client initialization
